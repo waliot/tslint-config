@@ -1,0 +1,32 @@
+{
+  "name": "@waliot-oss/tslint-config",
+  "version": "0.0.1",
+  "description": "Waliot Tech Team tslint config",
+  "main": "waliot-tslint-config.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/waliot/tslint-config.git"
+  },
+  "keywords": [
+    "tslint",
+    "typescript"
+  ],
+  "author": {
+    "name": "Waliot Tech"
+  },
+  "maintainers": [
+    {
+      "name": "Sam Bulatov",
+      "email": "mephistorine@gmail.com",
+      "url": "t.me/mephistorine"
+    }
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/waliot/tslint-config/issues"
+  },
+  "homepage": "https://github.com/waliot/tslint-config#readme"
+}
