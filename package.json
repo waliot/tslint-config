@@ -14,9 +14,6 @@
     "tslint",
     "typescript"
   ],
-  "author": {
-    "name": "Waliot Tech"
-  },
   "maintainers": [
     {
       "name": "Sam Bulatov",
@@ -24,9 +21,10 @@
       "url": "t.me/mephistorine"
     }
   ],
-  "license": "ISC",
+  "license": "Apache-2.0",
   "bugs": {
     "url": "https://github.com/waliot/tslint-config/issues"
   },
-  "homepage": "https://github.com/waliot/tslint-config#readme"
+  "homepage": "https://github.com/waliot/tslint-config#readme",
+  "private": false
 }
