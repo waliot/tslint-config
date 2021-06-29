@@ -1,6 +1,6 @@
 {
   "name": "@waliot-oss/tslint-config",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Waliot Tech Team tslint config",
   "main": "waliot-tslint-config.json",
   "repository": {
